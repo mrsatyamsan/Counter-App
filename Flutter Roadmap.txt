@@ -1,0 +1,15 @@
+There is a lot to Learn in Flutter. 
+Take Maxmilian Course to fill all your Gaps  // Complete by end of October
+After that work on Firebase 
+Make 1-2 Good Projects  // Atleast 1 Project by 15th
+// Try to take part in good Hackathons 
+Learn Bloc
+Make Projects ( By this Time, you must have got good Grip on Python and Coding in General )
+Start Participating in Hackathons
+
+
+// Coding
+Complete the Coursera Courses
+//15th ??
+Make a good C Project + Start Solving Questions on Atcoder / Ladder
+Baaki baad mein dekhte hai
